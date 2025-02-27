@@ -66,6 +66,10 @@ _import_structure = {
         "ConcreteTaskArithmeticAlgorithmForCLIP",
         "ConcreteTaskWiseAdaMergingForCLIP",
         "ConcreteLayerWiseAdaMergingForCLIP",
+        "ConcreteSafeTaskWiseAdaMergingForCLIP",
+        "ConcreteSafeLayerWiseAdaMergingForCLIP",
+        "PostDefenseAWMAlgorithmForCLIP",
+        "PostDefenseSAUAlgorithmForCLIP",
     ],
     # model mixing methods
     "depth_upscaling": ["DepthUpscalingAlgorithm", "DepthUpscalingForLlama"],

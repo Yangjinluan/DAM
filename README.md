@@ -1,6 +1,6 @@
 # Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace （ICLR2025)
 
-![framework](images/DAM_Method.pdf)
+![framework](images/framework.png)
 
 ## Citation
 ```
